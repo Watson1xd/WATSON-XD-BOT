@@ -82,7 +82,7 @@ _________________________________________
               forwardingScore: 999,
               isForwarded: true,
               forwardedNewsletterMessageInfo: {
-                newsletterJid: '120363249960769123@newsletter',
+                newsletterJid: '120363301232318493@newsletter',
                 newsletterName: "WATSON-XD-BOT",
                 serverMessageId: 143
               }

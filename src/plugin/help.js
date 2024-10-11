@@ -203,7 +203,7 @@ const cmd = m.body.startsWith(prefix) ? m.body.slice(prefix.length).split(' ')[0
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363249960769123@newsletter',
+                  newsletterJid: '120363301232318493@newsletter',
                   newsletterName: "𝐖𝐀𝐓𝐒𝐎𝐍 𝐗𝐃",
                   serverMessageId: 143
                 }
@@ -353,7 +353,7 @@ const cmd = m.body.startsWith(prefix) ? m.body.slice(prefix.length).split(' ')[0
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363249960769123@newsletter',
+                  newsletterJid: '120363301232318493@newsletter',
                   newsletterName: "𝐖𝐀𝐓𝐒𝐎𝐍 𝐗𝐃",
                   serverMessageId: 143
                 }
@@ -392,7 +392,7 @@ await Matrix.sendMessage(m.from, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363249960769123@newsletter',
+                  newsletterJid: '120363301232318493@newsletter',
                   newsletterName: "𝐖𝐀𝐓𝐒𝐎𝐍 𝐗𝐃",
                   serverMessageId: 143
                 }
@@ -458,7 +458,7 @@ await Matrix.sendMessage(m.from, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363249960769123@newsletter',
+                  newsletterJid: '120363301232318493@newsletter',
                   newsletterName: "𝐖𝐀𝐓𝐒𝐎𝐍 𝐗𝐃",
                   serverMessageId: 143
                 }
@@ -497,7 +497,7 @@ await Matrix.sendMessage(m.from, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363249960769123@newsletter',
+                  newsletterJid: '120363301232318493@newsletter',
                   newsletterName: "𝐖𝐀𝐓𝐒𝐎𝐍 𝐗𝐃",
                   serverMessageId: 143
                 }
@@ -533,7 +533,7 @@ await Matrix.sendMessage(m.from, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363249960769123@newsletter',
+                  newsletterJid: '120363301232318493@newsletter',
                   newsletterName: "𝐖𝐀𝐓𝐒𝐎𝐍 𝐗𝐃",
                   serverMessageId: 143
                 }
@@ -561,7 +561,7 @@ await Matrix.sendMessage(m.from, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363249960769123@newsletter',
+                  newsletterJid: '120363301232318493@newsletter',
                   newsletterName: "𝐖𝐀𝐓𝐒𝐎𝐍 𝐗𝐃",
                   serverMessageId: 143
                 }
@@ -592,7 +592,7 @@ await Matrix.sendMessage(m.from, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363249960769123@newsletter',
+                  newsletterJid: '120363301232318493@newsletter',
                   newsletterName: "𝐖𝐀𝐓𝐒𝐎𝐍 𝐗𝐃",
                   serverMessageId: 143
                 }
@@ -624,7 +624,7 @@ await Matrix.sendMessage(m.from, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363249960769123@newsletter',
+                  newsletterJid: '120363301232318493@newsletter',
                   newsletterName: "𝐖𝐀𝐓𝐒𝐎𝐍 𝐗𝐃",
                   serverMessageId: 143
                 }
@@ -657,7 +657,7 @@ await Matrix.sendMessage(m.from, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363249960769123@newsletter',
+                  newsletterJid: '120363301232318493@newsletter',
                   newsletterName: "𝐖𝐀𝐓𝐒𝐎𝐍 𝐗𝐃",
                   serverMessageId: 143
                 }
